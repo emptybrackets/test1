@@ -1,0 +1,17 @@
+:root {
+    /* Fonts */
+    --font-rouge: "Rouge Script", Sans-serif;
+    --font-cormorant: "Cormorant Garamond", Sans-serif;
+    --font-montserrat: "Montserrat", "Helvetica Neue",sans-serif;
+
+    /* Colors */
+    --color-maroon: #750505;
+    --color-half-pink: #ffdcd7;
+    --color-dark-gray: #3c3939;
+    --color-dark-gold: #A48424;
+    --color-gold: #ECA400;
+    --color-white-gray: #C7D6D5;
+    --color-gray: #5E5E5E;
+    --color-black: #000000;
+    --color-black-01: #111111;
+  }

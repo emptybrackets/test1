@@ -1,0 +1,18 @@
+Saya butuh di copy kan tampilan dari 
+
+https://invetin.id/fulanfulanah/
+https://invetin.id/tema09/
+https://invetin.id/tema06/
+
+ketentuan
+desain dengan bootstrap 5
+clean code ya..
+assetnya ambil dari web contoh..
+
+budget 200rb untuk 3 template..
+secara umum desainnya hampir sama, cuma asset2nya aja yang beda..
+
+Bagi yang masih berminta bisa balas chat ini 
+dan tinggalkan nomor WA
+
+https://codepen.io/dcode-software/pen/wvagWEP
